@@ -1,4 +1,5 @@
 import logoImg from './assets/logo-nlw.svg';
+
 import './styles/main.css';
 
 function App() {
